@@ -5,4 +5,4 @@
 Easy validation for pen tests to see if data or numbers discovered are possible credit card numbers.
 
 #### Usage:
-Test-LuhnNumber "<Credit Card Number>"
+    Test-LuhnNumber "<Credit Card Number>"
