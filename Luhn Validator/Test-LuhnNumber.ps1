@@ -1,6 +1,7 @@
 ﻿# Modified from this script: http://scriptolog.blogspot.com/2008/01/powershell-luhn-validation.html
 # Added data type conversions for easier input
 # Author: Jesse Nebling (@bashexplode)
+# License: BSD 3-Clause
 
 #######################################################
 ## Returns true if the given array of digits represents
